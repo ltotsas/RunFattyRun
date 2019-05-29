@@ -1,0 +1,6 @@
+framework module Pods_RunFattyRunUITests {
+  umbrella header "Pods-RunFattyRunUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
